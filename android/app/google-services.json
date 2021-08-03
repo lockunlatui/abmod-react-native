@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "403454699028",
+    "project_id": "locdo-reactnative-admob",
+    "storage_bucket": "locdo-reactnative-admob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403454699028:android:971ad85159a9d150106901",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403454699028-g7182it2p8loaaqs9hjot3v5l5meid46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFH9wtz0R5sQbJ4_8rFDHksmKNEXf-1_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403454699028-g7182it2p8loaaqs9hjot3v5l5meid46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
